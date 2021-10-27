@@ -4,7 +4,7 @@ Please see my two graphs with brief descriptions included below.
 Here's a link to the assignment [instructions](https://github.com/mikeizbicki/cmc-csci040)
 
 ## 1) Ten Most Recent Earthquakes (10/25/21 19:00PST) by State 
-![Ten Most Recent Earthquakes](https://raw.githubusercontent.com/laurenleadbetter/HW_02/main/Narcos%20V%20westworld%20ratings.png)
+![Ten Most Recent Earthquakes](https://github.com/laurenleadbetter/HW_02/blob/main/Ten%20most%20recent%20earthquakes.png)
 
 This is a bar graph showing where the ten most recent earthquakes in the US were, by state. There were only two states that had earthquakes, Alaska, and California, and none in any others. 
 
